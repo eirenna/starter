@@ -8,12 +8,6 @@ body {
     
 }
 
-*,
-*:before,
-*:after {
-    box-sizing: border-box;
-}
-
 h1,
 h2,
 h3,
@@ -31,6 +25,14 @@ p {
 
 body{
 
+}
+
+a {
+
+}
+
+a:hover {
+	
 }
 
 /* Layout */
@@ -81,4 +83,12 @@ select:focus {
 }
 textarea {
 
+}
+
+a {
+
+}
+
+a:hover {
+	
 }
